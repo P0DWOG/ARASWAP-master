@@ -1,6 +1,6 @@
 {
-  "name": "saddle-frontend",
-  "description": "The frontend for saddle.finance 🤠",
+  "name": "ARAswap-frontend",
+  "description": "The frontend for ARAswap",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -114,7 +114,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/thesis/saddle-frontend.git"
+    "url": "git+https://github.com/P0DWOG/ARASWAP-master"
   },
   "keywords": [
     "cryptocurrency",
