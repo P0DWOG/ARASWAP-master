@@ -11,7 +11,7 @@ header.top {
   align-items: center;
   @include breakpoint(sm) {
     padding-left: 56px;
-    padding-right: 70px;
+    padding-right: 56px;
   }
 
   h1 {
